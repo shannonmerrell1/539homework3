@@ -2,6 +2,7 @@
 body{
   font-family: Quicksand, sans-serif;
   background-image:url("../images/pidgeon-background.jpg");
+  margin:1.2em;
 }
 table{
   border: 2px solid black;
